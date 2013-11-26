@@ -1,0 +1,8 @@
+NumProcesses 3
+port0 50002
+host0 127.0.0.1
+port1 50001
+host1 127.0.0.1
+port2 50003
+host2 127.0.0.1
+procNum 0

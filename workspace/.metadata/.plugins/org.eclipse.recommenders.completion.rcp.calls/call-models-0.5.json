@@ -1,0 +1,12 @@
+{
+  "/v/filer4b/v20q001/lijialiu/workspace/DIST_3PC/src": {
+    "location": "/v/filer4b/v20q001/lijialiu/workspace/DIST_3PC/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/v/filer4b/v20q001/lijialiu/workspace/DIST_3PC/src\u0027. Skipped."
+  },
+  "/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar",
+    "status": "RESOLVED"
+  }
+}

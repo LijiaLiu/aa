@@ -1,0 +1,8 @@
+start-3PC ADD c http://3
+commit ADD c http://3
+start-3PC ADD s http://8
+abort
+start-3PC ADD w http://1
+abort
+start-3PC ADD s http://9
+abort

@@ -1,0 +1,3 @@
+command VOTE-REQ ADD 5 http://5
+yes
+commit

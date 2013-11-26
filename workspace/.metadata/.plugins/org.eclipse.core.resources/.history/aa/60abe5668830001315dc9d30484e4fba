@@ -1,0 +1,3 @@
+command VOTE-REQ ADD d http://a
+yes
+abort

@@ -1,0 +1,12 @@
+start-3PC ADD a http://0
+abort
+start-3PC ADD 5 http:/5
+abort
+start-3PC ADD 7 http://3
+abort
+start-3PC YES
+abort
+start-3PC ADD 3 http://7
+commit ADD 3 http://7
+start-3PC ADD 4 http://4
+abort

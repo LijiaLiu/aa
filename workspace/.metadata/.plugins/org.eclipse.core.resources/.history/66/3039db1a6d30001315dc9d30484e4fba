@@ -1,0 +1,8 @@
+start-3PC ADD h http://2
+commit ADD h http://2
+start-3PC ADD a http://2
+abort
+start-3PC ADD a http://2
+commit ADD a http://2
+start-3PC ADD 5 http://5
+commit ADD 5 http://5
